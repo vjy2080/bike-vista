@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(187, 255, 255);
+}
+
+img {
+    width: 50vw;
+    height: 50vh;
+}
+
+.h-50vh {
+    height: 77vh;
+}
+
+.bgAbout {
+    background-color: rgb(132, 178, 178);
+
+}
+
+.logo {
+    height: 55px;
+    width: 75px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.registration input {
+    padding: 5px 10px;
+}
+
+.registration label {
+    font-weight: bolder;
+    text-align: center;
+}
