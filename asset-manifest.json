@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bike-vista/static/css/main.752b2992.css",
+    "main.js": "/bike-vista/static/js/main.d98d61a0.js",
+    "static/js/850.18768a7e.chunk.js": "/bike-vista/static/js/850.18768a7e.chunk.js",
+    "static/js/171.c275afb0.chunk.js": "/bike-vista/static/js/171.c275afb0.chunk.js",
+    "static/media/logo.png": "/bike-vista/static/media/logo.eecd7cae049ffa9917e4.png",
+    "index.html": "/bike-vista/index.html",
+    "main.752b2992.css.map": "/bike-vista/static/css/main.752b2992.css.map",
+    "main.d98d61a0.js.map": "/bike-vista/static/js/main.d98d61a0.js.map",
+    "850.18768a7e.chunk.js.map": "/bike-vista/static/js/850.18768a7e.chunk.js.map",
+    "171.c275afb0.chunk.js.map": "/bike-vista/static/js/171.c275afb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.752b2992.css",
+    "static/js/main.d98d61a0.js"
+  ]
+}
